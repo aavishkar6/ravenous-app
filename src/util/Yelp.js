@@ -1,6 +1,6 @@
 
 
-const apiKey = 'AzVSpSale9UCZ3qkcExtwzoX-9dPqEQgjQ4fch8XtTSmnxyt0aqfTnrNBJgOMq_voHAz8VNkajMpTkyubU-IbY7ehCd46egLrRy9xtGOHHBJQIZiZTKgyEQkUtNPY3Yx'
+const apiKey = //API KEY HERE;
 
 const Yelp = {
 
